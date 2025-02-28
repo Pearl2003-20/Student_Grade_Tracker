@@ -1,3 +1,15 @@
+git clone https://github.com/your-username/javafx-ui-prototype.git
+cd javafx-ui-prototype
+
+
+mkdir -p src/main/java/com/example/ui
+mkdir -p src/main/resources/fxml
+mkdir -p src/main/resources/css
+
+
+
+
+
 # Compiled class file
 *.class
 
